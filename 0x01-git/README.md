@@ -1,1 +1,1 @@
-My second readme in 0x01-git
+SO i made an edit to this README since i have been have issues.
